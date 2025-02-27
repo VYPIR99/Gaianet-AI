@@ -36,9 +36,10 @@ To run a Gaia node with the **Qwen2 0.5B Instruct** model, ensure your system me
 ---
 
 ## 2. Install dependecies
-1. Update packages
+1. Update packages and install screen
      ```bash
-   sudo apt update && sudo apt upgrade -y
+   sudo apt update
+   sudo apt install screen
      ```
 
 2. Install Python
